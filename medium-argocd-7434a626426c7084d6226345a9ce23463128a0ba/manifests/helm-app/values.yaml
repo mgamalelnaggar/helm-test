@@ -1,4 +1,0 @@
-namespace: sandbox
-
-service:
-  port: 30001
