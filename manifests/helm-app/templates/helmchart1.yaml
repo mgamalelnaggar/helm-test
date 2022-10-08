@@ -4,4 +4,3 @@ metadata:
   name: first-chart-cm-{{.Chart.version}}
 data:
   port: "8080"
-  hopa: "tito mambo"
